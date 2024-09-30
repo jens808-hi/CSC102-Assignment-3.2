@@ -1,0 +1,77 @@
+body{
+    background-color: #f8f483;
+    color: black;
+    font-family: 'Lucida Sans';
+    
+}
+button{
+    background-color: rgb(17, 17, 65);
+    color: aliceblue;
+    font-size: large;
+    font-family: Georgia;
+    text-align: center;
+    outline-color: aqua;
+    border-radius: 5px;
+    height: 35px;
+    width: 125px;
+    display: flex;
+    margin-top: 25px;
+}
+#input_firstnm {
+   height: 40px;
+   width: 250px;
+   padding: 0 25px;
+   font-size: 14px;
+   border-radius: 5px;
+   border-color: blanchedalmond;
+   text-align: center;  
+}
+#input_lastnm{
+   height: 40px;
+   width: 250px;
+   padding: 0 25px;
+   font-size: 14px;
+   border-radius: 5px;
+   border-color: blanchedalmond;
+   text-align: center;  
+}
+#input_zipc{
+    height: 40px;
+   width: 250px;
+   padding: 0 25px;
+   font-size: 14px;
+   border-radius: 5px;
+   border-color: blanchedalmond;
+   text-align: center;  
+}
+#firstnm_label{
+    font-weight: 50px;
+    font-size: large;
+    font-family:'Lucida Grande';
+    font-weight: bolder;
+}
+#lastnm_label{
+    font-weight: 50px;
+    font-size: large;
+    font-family:'Lucida Grande';
+    font-weight: bolder;
+}
+#zipCode_label{
+    font-weight: 50px;
+    font-size: large;
+    font-family:'Lucida Grande';
+    font-weight: bolder; 
+}
+
+h1{
+    font-family: 'Times New Roman';
+    color: rgb(21, 5, 112);
+    margin-top: 50px;
+    text-align: center;
+}
+h3{
+    text-align: left;
+    border-radius: 30%;
+    border-color: black;
+    border-style: block;
+}
